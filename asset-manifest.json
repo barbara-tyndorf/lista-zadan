@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/barbara-tyndorf/lista-zadan/static/css/main.b19dddd6.chunk.css",
-    "main.js": "/barbara-tyndorf/lista-zadan/static/js/main.be00e3cb.chunk.js",
-    "main.js.map": "/barbara-tyndorf/lista-zadan/static/js/main.be00e3cb.chunk.js.map",
-    "runtime-main.js": "/barbara-tyndorf/lista-zadan/static/js/runtime-main.d21bb82a.js",
-    "runtime-main.js.map": "/barbara-tyndorf/lista-zadan/static/js/runtime-main.d21bb82a.js.map",
-    "static/js/2.4e67676e.chunk.js": "/barbara-tyndorf/lista-zadan/static/js/2.4e67676e.chunk.js",
-    "static/js/2.4e67676e.chunk.js.map": "/barbara-tyndorf/lista-zadan/static/js/2.4e67676e.chunk.js.map",
-    "index.html": "/barbara-tyndorf/lista-zadan/index.html",
-    "static/css/main.b19dddd6.chunk.css.map": "/barbara-tyndorf/lista-zadan/static/css/main.b19dddd6.chunk.css.map",
-    "static/js/2.4e67676e.chunk.js.LICENSE.txt": "/barbara-tyndorf/lista-zadan/static/js/2.4e67676e.chunk.js.LICENSE.txt"
+    "main.css": "/lista-zadan/static/css/main.b19dddd6.chunk.css",
+    "main.js": "/lista-zadan/static/js/main.be00e3cb.chunk.js",
+    "main.js.map": "/lista-zadan/static/js/main.be00e3cb.chunk.js.map",
+    "runtime-main.js": "/lista-zadan/static/js/runtime-main.7d9c8519.js",
+    "runtime-main.js.map": "/lista-zadan/static/js/runtime-main.7d9c8519.js.map",
+    "static/js/2.4e67676e.chunk.js": "/lista-zadan/static/js/2.4e67676e.chunk.js",
+    "static/js/2.4e67676e.chunk.js.map": "/lista-zadan/static/js/2.4e67676e.chunk.js.map",
+    "index.html": "/lista-zadan/index.html",
+    "static/css/main.b19dddd6.chunk.css.map": "/lista-zadan/static/css/main.b19dddd6.chunk.css.map",
+    "static/js/2.4e67676e.chunk.js.LICENSE.txt": "/lista-zadan/static/js/2.4e67676e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d21bb82a.js",
+    "static/js/runtime-main.7d9c8519.js",
     "static/js/2.4e67676e.chunk.js",
     "static/css/main.b19dddd6.chunk.css",
     "static/js/main.be00e3cb.chunk.js"
